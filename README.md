@@ -1,8 +1,8 @@
 # go-api
 
 
-For Posting data to API the format would :
+For Posting data to API the format would be :
 
 {
-  "data" : "Any string you want to pass"
+  "data" : Any string you want to pass"
 }
